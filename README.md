@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# data-warehouse-project using sql
 Project Overview
 
 This project demonstrates the end-to-end development of a SQL-based data warehouse using data sourced from two enterprise systems: ERP (Enterprise Resource Planning) and CRM (Customer Relationship Management). The source data is provided as CSV files and processed through a structured ETL (Extract, Transform, Load) pipeline following the Medallion Architecture.
